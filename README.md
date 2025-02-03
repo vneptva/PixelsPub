@@ -98,17 +98,16 @@ ADB Procedures using a PC:
 
 > ```adb devices```
 
-![6](adb_devices.png)
+![6]()
 
 #### For macOS:  ```./adb devices ```
 
 * If your device fails to connect to your computer, try connecting it to a different USB port and/or
   using a different USB data cable. If still not connecting, your computer is possibly missing the
   USB driver for your phone.
-  Check [here to download OEM USB drivers](https://developer.android.com/studio/run/oem-usb#Drivers).
-  Once installed, reboot your PC and redo step no. 6.
+  Check [here to download OEM USB drivers]
+  
 
-</details>
 
 ### 7. Actual granting of WRITE_SECURE_SETTINGS permission to Pixels
 
